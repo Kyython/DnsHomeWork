@@ -13,7 +13,7 @@ namespace FirstHomeWork
 
         private void EnterButtonClick(object sender, RoutedEventArgs e)
         {
-            if (userText.Text == null)
+            if (userText.Text == string.Empty)
             {
                 MessageBox.Show("Заполните текстовое поле!");
                 return;
