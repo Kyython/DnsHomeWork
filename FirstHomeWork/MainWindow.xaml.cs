@@ -1,4 +1,5 @@
-﻿using System.Net;
+﻿using System;
+using System.Net;
 using System.Windows;
 
 namespace FirstHomeWork
@@ -18,16 +19,23 @@ namespace FirstHomeWork
                 return;
             }
 
-            var ipHostEntry = Dns.GetHostEntry(userText.Text);
-
-            ipAddressList.Items.Clear();
-
-            foreach (var item in ipHostEntry.AddressList)
+            try
             {
-                ipAddressList.Items.Add(item);
-            }
+                var ipHostEntry = Dns.GetHostEntry(userText.Text);
 
-            hostNameText.Text = ipHostEntry.HostName;
+                ipAddressList.Items.Clear();
+
+                foreach (var item in ipHostEntry.AddressList)
+                {
+                    ipAddressList.Items.Add(item);
+                }
+
+                hostNameText.Text = ipHostEntry.HostName;
+            }
+            catch(Exception exception)
+            {
+                MessageBox.Show($"Error - {exception.Message}");
+            }
         }
     }
 }
