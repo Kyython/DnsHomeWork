@@ -1,0 +1,15 @@
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\bin\Debug\FirstHomeWork.exe.config
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\bin\Debug\FirstHomeWork.exe
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\bin\Debug\FirstHomeWork.pdb
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork.csprojAssemblyReference.cache
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\App.g.cs
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork_MarkupCompile.cache
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork_MarkupCompile.lref
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\MainWindow.baml
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork.g.resources
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork.Properties.Resources.resources
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork.csproj.GenerateResource.cache
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork.exe
+C:\Users\Асанали\source\repos\FirstHomeWork\FirstHomeWork\obj\Debug\FirstHomeWork.pdb
